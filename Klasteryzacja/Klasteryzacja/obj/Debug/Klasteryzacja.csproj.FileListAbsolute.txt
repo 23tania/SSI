@@ -1,0 +1,7 @@
+C:\Users\zosta\source\repos\Klasteryzacja\Klasteryzacja\bin\Debug\Klasteryzacja.exe.config
+C:\Users\zosta\source\repos\Klasteryzacja\Klasteryzacja\bin\Debug\Klasteryzacja.exe
+C:\Users\zosta\source\repos\Klasteryzacja\Klasteryzacja\bin\Debug\Klasteryzacja.pdb
+C:\Users\zosta\source\repos\Klasteryzacja\Klasteryzacja\obj\Debug\Klasteryzacja.csprojAssemblyReference.cache
+C:\Users\zosta\source\repos\Klasteryzacja\Klasteryzacja\obj\Debug\Klasteryzacja.csproj.CoreCompileInputs.cache
+C:\Users\zosta\source\repos\Klasteryzacja\Klasteryzacja\obj\Debug\Klasteryzacja.exe
+C:\Users\zosta\source\repos\Klasteryzacja\Klasteryzacja\obj\Debug\Klasteryzacja.pdb
