@@ -1,0 +1,14 @@
+C:\Users\zosta\source\repos\sem4\lab3ssi\lab3ssi\bin\Debug\lab3ssi.exe.config
+C:\Users\zosta\source\repos\sem4\lab3ssi\lab3ssi\bin\Debug\lab3ssi.exe
+C:\Users\zosta\source\repos\sem4\lab3ssi\lab3ssi\bin\Debug\lab3ssi.pdb
+C:\Users\zosta\source\repos\sem4\lab3ssi\lab3ssi\obj\Debug\lab3ssi.csprojAssemblyReference.cache
+C:\Users\zosta\source\repos\sem4\lab3ssi\lab3ssi\obj\Debug\lab3ssi.csproj.CoreCompileInputs.cache
+C:\Users\zosta\source\repos\sem4\lab3ssi\lab3ssi\obj\Debug\lab3ssi.exe
+C:\Users\zosta\source\repos\sem4\lab3ssi\lab3ssi\obj\Debug\lab3ssi.pdb
+C:\Users\zosta\source\repos\sem4\SSI\lab3ssi\lab3ssi\bin\Debug\lab3ssi.exe.config
+C:\Users\zosta\source\repos\sem4\SSI\lab3ssi\lab3ssi\bin\Debug\lab3ssi.exe
+C:\Users\zosta\source\repos\sem4\SSI\lab3ssi\lab3ssi\bin\Debug\lab3ssi.pdb
+C:\Users\zosta\source\repos\sem4\SSI\lab3ssi\lab3ssi\obj\Debug\lab3ssi.csprojAssemblyReference.cache
+C:\Users\zosta\source\repos\sem4\SSI\lab3ssi\lab3ssi\obj\Debug\lab3ssi.csproj.CoreCompileInputs.cache
+C:\Users\zosta\source\repos\sem4\SSI\lab3ssi\lab3ssi\obj\Debug\lab3ssi.exe
+C:\Users\zosta\source\repos\sem4\SSI\lab3ssi\lab3ssi\obj\Debug\lab3ssi.pdb
