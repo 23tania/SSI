@@ -1,0 +1,7 @@
+C:\Users\zosta\source\repos\sem4\SSI\Kolokwium_SSI\Kolokwium_SSI\bin\Debug\Kolokwium_SSI.exe.config
+C:\Users\zosta\source\repos\sem4\SSI\Kolokwium_SSI\Kolokwium_SSI\bin\Debug\Kolokwium_SSI.exe
+C:\Users\zosta\source\repos\sem4\SSI\Kolokwium_SSI\Kolokwium_SSI\bin\Debug\Kolokwium_SSI.pdb
+C:\Users\zosta\source\repos\sem4\SSI\Kolokwium_SSI\Kolokwium_SSI\obj\Debug\Kolokwium_SSI.csprojAssemblyReference.cache
+C:\Users\zosta\source\repos\sem4\SSI\Kolokwium_SSI\Kolokwium_SSI\obj\Debug\Kolokwium_SSI.csproj.CoreCompileInputs.cache
+C:\Users\zosta\source\repos\sem4\SSI\Kolokwium_SSI\Kolokwium_SSI\obj\Debug\Kolokwium_SSI.exe
+C:\Users\zosta\source\repos\sem4\SSI\Kolokwium_SSI\Kolokwium_SSI\obj\Debug\Kolokwium_SSI.pdb
